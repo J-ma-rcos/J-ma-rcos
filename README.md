@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![MasterHead]([![OI! Me Chamo João](https://user-images.githubusercontent.com/61885509/180025200-376367f9-9e78-43e2-9e1c-4a183e4de272.gif))
 
-
+<img align="right" alt="Coding" width="400" src="![OI! Me Chamo João](https://user-images.githubusercontent.com/61885509/180025751-c5eee603-ef42-4d3e-8b31-0557888f1858.gif)">
 
 - 🔭 atualmente estou em busca do meu primeiro estagio
 - 🌱 Atualmente me aprofundando mais em javascript e python
