@@ -8,6 +8,10 @@ Estou Atualmente No 6° Periodo Da Faculdade De Ciencias Da Computação🤓Estu
 [![intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoma4cos/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/C426TQ2JG774E1)
 
+## Tecnologias que eu uso no meu dia a dia
+  <div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <div>
 
 ![J-ma-rcos GitHub stats](https://github-readme-stats.vercel.app/api?username=J-ma-rcos&show_icons=true&theme=onedark)
 
