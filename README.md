@@ -1,6 +1,6 @@
 ### Oi! eu me chamo joão marcos 👋
 
-[![MasterHead](![OI! Me Chamo João](https://user-images.githubusercontent.com/61885509/180026336-a7b26c1b-119f-4445-ac9a-803c239485ec.gif))](https://github.com/J-ma-rcos)
+(![OI! Me Chamo João](https://user-images.githubusercontent.com/61885509/180026336-a7b26c1b-119f-4445-ac9a-803c239485ec.gif))](https://github.com/J-ma-rcos)
 
 Estou Atualmente No 6° Periodo Da Faculdade De Ciencias Da Computação🤓Estudo Na UNIPÊ de João Pessoa🏛️ Eu Amo Explorar Novas Tecnologias e Como Elas Mudam Nosso Dia-Dia😄 Tambem Gosto Da Comunidade DEV Que Esta Sempre Unida e Disposta a Ajudar🌐 estou focado em desenvolvimento web 💻 e trabalhando mas minhas Soft Skills Assim Como Estudando Python e Javascript e começando no react.js💡
 
@@ -13,7 +13,8 @@ Estou Atualmente No 6° Periodo Da Faculdade De Ciencias Da Computação🤓Estu
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+  <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img aling="center" alt="php" src="https://img.shields.io/badge/-php-purple"><br>
   <div>
     
 ## Meu Github Stats
