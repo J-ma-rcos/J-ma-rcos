@@ -16,7 +16,7 @@ Estou Atualmente No 6° Periodo Da Faculdade De Ciencias Da Computação🤓Estu
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img aling="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <br>
-  <div>
+  </div>
 ## IDEs que uso
     <hr>
     <div>
