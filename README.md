@@ -17,15 +17,15 @@ Estou Atualmente No 6° Periodo Da Faculdade De Ciencias Da Computação🤓Estu
   <img aling="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <br>
   </div><hr>
-## IDEs que uso
+##IDEs que uso
     <div>
     <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
     </div><hr>
     
-## Frameworks & Bibliotecas 
+##Frameworks & Bibliotecas 
     <div>
-      <img aling="center" alt="vscode" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-      <img aling="center" alt="vscode" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+      <img aling="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
     </div>
     
 ## Meu Github Stats
